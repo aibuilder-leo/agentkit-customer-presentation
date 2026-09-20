@@ -1,6 +1,8 @@
 # AgentKit 客户宣讲
 
-10 页 HTML 演示文稿，基于正式排版 V20。
+10 页 HTML 演示文稿，V21 口播精简版，沿用正式排版。
+
+逐页口播按约 20 分钟安排（含指图与翻页，不含问答），每页附建议时长和累计时间。技术资料和来源另行折叠，供答疑时参考。
 
 [在线演示](https://aibuilder-leo.github.io/agentkit-customer-presentation/)
 
